@@ -71,7 +71,7 @@ function App() {
         <h1 className="title">una gallina puso huevos.......ayer 🐒</h1>
 
         <div className="chicken-container">
-					<img src="./../../chicken.jpeg" alt="Gallina feliz" className={`chicken ${showCelebration ? "chicken-happy" : ""}`} />
+					<img src="/chicken.jpeg" alt="Gallina feliz" className={`chicken ${showCelebration ? "chicken-happy" : ""}`} />
         </div>
 
         <p className="subtitle">esta gallina quiere poner huevos</p>
